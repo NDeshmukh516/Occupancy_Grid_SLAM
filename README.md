@@ -7,7 +7,7 @@ by Anthony Ambrose and Nikhil Deshmukh
 
 To install, follow:
 
-wstool init src https://raw.github.com/tu-darmstadt-ros-pkg/hector_quadrotor/kinetic-devel/tutorials.rosinstall
+```wstool init src https://raw.github.com/tu-darmstadt-ros-pkg/hector_quadrotor/kinetic-devel/tutorials.rosinstall
 
 sudo apt-get install ros-kinetic-geographic-info
 
@@ -33,7 +33,7 @@ sudo apt-get install ros-kinetic-ros-numpy
 
 catkin_make
 
-source devel/setup.bash
+source devel/setup.bash ```
 
 3. The scripts in this project requires numpy, rospy, math, tf2_ros, all of which can be installed using the pip/pip3 command in the terminal. 
 
