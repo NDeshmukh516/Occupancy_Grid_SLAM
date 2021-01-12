@@ -1,4 +1,4 @@
-Occupancy Grid SLAM using Hector 
+# Occupancy Grid SLAM using Hector 
 by Anthony Ambrose and Nikhil Deshmukh
 
 1. Setup ROS Kinetic on Ubuntu 16.04. Follow alternate instructions to install updated version of Gazebo, at http://gazebosim.org/tutorials?cat=install&tut=install_ubuntu&ver=7.0
